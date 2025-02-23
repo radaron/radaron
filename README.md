@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there, I'm Áron Radics 👋
 
-<!--
-**radaron/radaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Full-Stack Developer with a strong focus on backend development and cloud infrastructure. I love building scalable, efficient, and reliable systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack
+
+Languages & Frameworks: Python, React
+
+Cloud & DevOps: AWS, Terraform
+
+Other: Backend Architecture, API Development, Serverless
+
+
+🔒 Cybersecurity Enthusiast
+
+While my professional expertise is in development, I have a strong interest in cybersecurity and enjoy learning about ethical hacking, security best practices, and system hardening as a hobby.
+
+📫 Let's Connect
+
+LinkedIn:  https://www.linkedin.com/in/aron-radics-a8518a18b
+
+Email: radics.aron.jozsef@gmail.com
+
+Looking forward to collaborating and learning together!
+
